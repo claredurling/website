@@ -1,0 +1,16 @@
+blockquote {
+    border-left: 6px solid red;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+   }
+
+blockquote > p {
+    color: #aaaaaa;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
