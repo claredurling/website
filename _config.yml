@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -27,6 +27,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 author:
   name: "ⓒ Clare Durling 2021"
+
+google_analytics: G-Z43RHMXREK
 
 # Build settings
 remote_theme: jekyll/minima
